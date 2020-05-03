@@ -2,6 +2,7 @@
 
 This is a simple.
 Adding for rebasing example
+Changes from myfeature
 
 ## Introduction
 
