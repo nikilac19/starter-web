@@ -19,4 +19,4 @@ This is deployement section
 ## How to Controle
 Please fotke this rep
 
-copyright 2010
+copyright 2010 all rigst reserved
