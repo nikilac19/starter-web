@@ -15,5 +15,6 @@ This is purpose
 This is deployement section
 
 ## How to Controle
+Please fotke this rep
 
 copyright 2010
