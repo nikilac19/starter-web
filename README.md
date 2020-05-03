@@ -15,3 +15,5 @@ This is purpose
 This is deployement section
 
 ## How to Controle
+
+copyright 2010
