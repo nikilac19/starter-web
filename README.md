@@ -4,6 +4,8 @@ This is a simple.
 Adding for rebasing example
 Changes from myfeature
 
+updating after stash
+
 ## Introduction
 
 This is intor example
